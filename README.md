@@ -1,4 +1,4 @@
-![background](https://github.com/giovannivicentin/giovannivicentin/2.png)
+![background](https://github.com/area319/area319/1.png)
 <p align="center">
   <a href="http://www.giovannivicentin.com" target="_blank">
     <img src="https://img.shields.io/badge/Check_out_my-portfolio-%23A020F0.svg?&style=for-the-badge&logoColor=white" />
@@ -38,9 +38,9 @@
 <b>Databases:</b>
 <br>
 <br>
+![MongoDB](https://img.shields.io/badge/-MongoDB-2279E1?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 <b>Other Tools:</b>
 <br>
@@ -56,8 +56,6 @@
 ![Connect with Me](https://img.shields.io/static/v1?label=Connect%20&message=with%20Me:&color=white&style=for-the-badge&logoColor=black)
 <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/giovannivicentin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:giovannifvicentin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=minutemailer&logoColor=white" /></a>
-<a href="https://instagram.com/giovannivicentin/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-<a href="http://www.giovannivicentin.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/GV​-Portfolio-%23A020F0?style=flat&logo=&logoColor=white" /></a>
+<a href="mailto:area319@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=minutemailer&logoColor=white" /></a>
+<a href="http://area319.github.io/resume" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/GV​-Portfolio-%23A020F0?style=flat&logo=&logoColor=white" /></a>
 </p>
