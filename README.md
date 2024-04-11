@@ -1,4 +1,3 @@
-![background](https://github.com/area319/area319/1.png)
 <p align="center">
   <a href="http://www.giovannivicentin.com" target="_blank">
     <img src="https://img.shields.io/badge/Check_out_my-portfolio-%23A020F0.svg?&style=for-the-badge&logoColor=white" />
