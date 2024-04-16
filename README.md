@@ -31,9 +31,9 @@
 <b>DevOps:</b>
 <br>
 <br>
-![Github](https://img.shields.io/badge/-Github.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-339933?style=flat&logo=node.js&logoColor=white)
-![Jekins](https://img.shields.io/badge/-Jekins-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Github](https://img.shields.io/badge/-Github.js-339933?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-339933?style=flat&logo=docker&logoColor=white)
+![Jekins](https://img.shields.io/badge/-Jekins-E0234E?style=flat&logo=jekins&logoColor=white)
 
 <b>Databases:</b>
 <br>
