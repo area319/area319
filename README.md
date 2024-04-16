@@ -50,5 +50,5 @@
 <br>
 <p align="left">
 <a href="mailto:area319@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=minutemailer&logoColor=white" /></a>
-<a href="http://area319.github.io/resume" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/GV​-Portfolio-%23A020F0?style=flat&logo=&logoColor=white" /></a>
+<a href="http://area319.github.io" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/GV​-Portfolio-%23A020F0?style=flat&logo=&logoColor=white" /></a>
 </p>
